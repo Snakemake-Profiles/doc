@@ -9,7 +9,7 @@ In the following, you find a list of available profiles.
 
 | Profile  | Authors |
 | -------- |-------- |
-| surfsara-grid | @johanneskoester |
+| [surfsara-grid](https://github.com/snakemake-profiles/surfsara-grid) | @johanneskoester |
 
 
 ## Documentation
