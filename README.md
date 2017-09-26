@@ -30,4 +30,4 @@ Contributing is easy:
 ### Guidelines
 
 1. A profile repository shall consist of one Snakemake profile.
-2. The structure of the profile should follow our [template](https://github.com/snakemake-workflows/cookiecutter-snakemake-profile). You can create a new profile with [cookiecutter](https://github.com/audreyr/cookiecutter) via `cookiecutter gh:snakemake-profiles/template`.
+2. The structure of the profile should follow our [template](https://github.com/snakemake-profiles/template). You can create a new profile with [cookiecutter](https://github.com/audreyr/cookiecutter) via `cookiecutter gh:snakemake-profiles/template`.
