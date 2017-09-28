@@ -14,18 +14,13 @@ In the following, you find a list of available profiles.
 
 ## Documentation
 
-### Join the team
-
-To join the team, please post your request in issue #1.
-
 ### Contribute
 
 Contributing is easy:
 
-1. Join the team.
-2. Create a new repository for your profile.
-3. Ensure that your profile follows our guidelines.
-3. Request a review in issue #2.
+1. Create a new repository for your profile with your github account.
+2. Ensure that your profile follows our guidelines.
+3. Request a inclusion of your profile in [#1](https://github.com/snakemake-profiles/issues/1). After successful review, we will fork your repository into this organization.
 
 ### Guidelines
 
