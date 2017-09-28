@@ -20,7 +20,7 @@ Contributing is easy:
 
 1. Create a new repository for your profile with your github account.
 2. Ensure that your profile follows our guidelines.
-3. Request a inclusion of your profile in [#1](https://github.com/snakemake-profiles/issues/1). After successful review, we will fork your repository into this organization.
+3. Request a inclusion of your profile by [creating a new issue](https://github.com/Snakemake-Profiles/doc/issues/new). After successful review, we will fork your repository into this organization.
 
 ### Guidelines
 
