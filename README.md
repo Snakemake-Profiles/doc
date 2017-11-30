@@ -10,6 +10,7 @@ In the following, you find a list of available profiles.
 | Profile  | Authors |
 | -------- |-------- |
 | [surfsara-grid](https://github.com/snakemake-profiles/surfsara-grid) | @johanneskoester |
+| [pbs-torque](https://github.com/snakemake-profiles/pbs-torque) | @neilav |
 
 
 ## Documentation
