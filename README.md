@@ -12,6 +12,8 @@ In the following, you find a list of available profiles.
 | [surfsara-grid](https://github.com/snakemake-profiles/surfsara-grid) | @johanneskoester |
 | [pbs-torque](https://github.com/snakemake-profiles/pbs-torque) | @neilav |
 | [slurm](https://github.com/Snakemake-Profiles/slurm) | @percyfal |
+| [lsf](https://github.com/Snakemake-Profiles/snakemake-lsf) | @mbhall88 |
+| [genric](https://github.com/Snakemake-Profiles/generic) | @SilasK |
 
 
 
