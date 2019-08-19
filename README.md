@@ -13,7 +13,8 @@ In the following, you find a list of available profiles.
 | [pbs-torque](https://github.com/snakemake-profiles/pbs-torque) | @neilav |
 | [slurm](https://github.com/Snakemake-Profiles/slurm) | @percyfal |
 | [lsf](https://github.com/Snakemake-Profiles/snakemake-lsf) | @mbhall88 |
-| [genric](https://github.com/Snakemake-Profiles/generic) | @SilasK |
+| [generic](https://github.com/Snakemake-Profiles/generic) | @SilasK |
+| [htcondor](https://github.com/Snakemake-Profiles/htcondor) | @jheuel |
 
 
 
