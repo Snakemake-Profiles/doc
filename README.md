@@ -15,7 +15,7 @@ In the following, you find a list of available profiles.
 | [lsf](https://github.com/Snakemake-Profiles/lsf) | @mbhall88 |
 | [generic](https://github.com/Snakemake-Profiles/generic) | @SilasK |
 | [htcondor](https://github.com/Snakemake-Profiles/htcondor) | @jheuel |
-| [htcondor](https://github.com/Snakemake-Profiles/sge) | @drjbarker |
+| [sge](https://github.com/Snakemake-Profiles/sge) | @drjbarker |
 
 
 
