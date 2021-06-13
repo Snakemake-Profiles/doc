@@ -1,6 +1,6 @@
 # The Snakemake-Profiles project
 
-The Snakemake-profiles project is an effort to create [configuration profiles](http://snakemake.readthedocs.io/en/stable/executable.html#profiles) for executing Snakemake in various computing environments (cluster systems like Slurm, SGE, Grid middleware, cloud computing). Snakemake-profiles has just started, and we need your help to support more computing environments.
+The Snakemake-profiles project is an effort to create [configuration profiles](https://snakemake.readthedocs.io/en/stable/executing/cli.html#profiles) for executing Snakemake in various computing environments (cluster systems like Slurm, SGE, Grid middleware, cloud computing). Snakemake-profiles has just started, and we need your help to support more computing environments.
 
 
 ## Profiles
